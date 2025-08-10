@@ -1,6 +1,5 @@
 <h1>project1</h1>
-## 🌡️ Temperature Converter
-**Description:**  
+## 🌡️ Temperature Converter 
 Temperature Converter is my first JavaScript project.  
 It takes a temperature in **Kelvin** and converts it into **Celsius**, **Fahrenheit**, and **Newton** scales, with clean and styled console output.  
 
