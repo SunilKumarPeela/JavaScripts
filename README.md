@@ -16,3 +16,10 @@ It takes an age in **human years** and converts it into **dog years** using the 
 [🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/humanToDogAgeConverter/tree/main)
 
 --
+
+## 🎱 Magic Eight Ball
+
+It takes a **user's question** and responds with one of eight possible random answers, simulating the classic Magic Eight Ball toy, and displays the result with a clean console output.
+
+[🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/MagicEightBall)
+
