@@ -1,4 +1,4 @@
-<h>project1</h>
+<h1>project1</h1>
 ## 🌡️ Temperature Converter
 **Description:**  
 Temperature Converter is my first JavaScript project.  
