@@ -41,3 +41,12 @@ It is a simple JavaScript game where the player chooses **rock**, **paper**, or 
 
 ---
 
+## 🛌 Sleep Debt Calculator
+
+It calculates the total sleep hours a person gets in a week and compares it with the ideal weekly sleep hours to determine if they are getting enough sleep, oversleeping, or have sleep debt, and displays the result in a clean console output.
+
+[🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/SleepDebtCalculator/tree/main)
+
+
+---
+
