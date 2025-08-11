@@ -47,6 +47,13 @@ It calculates the total sleep hours a person gets in a week and compares it with
 
 [🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/SleepDebtCalculator/tree/main)
 
-
 ---
+
+## 🏋️ Training Days
+
+It randomly assigns an athletic event to an athlete, calculates the required number of training days for that event, and displays the details in a clean console output.
+
+[🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/TrainingDays/tree/main)
+
+------
 
