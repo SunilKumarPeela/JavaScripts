@@ -29,5 +29,5 @@ It takes a **user's question** and responds with one of eight possible random an
 
 It assigns a **race number** and **start time** based on the runner's age and early registration status, following specific race day rules, and displays the result in a clean console output.
 
-[🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/RaceDay)
+[🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/RaceGame/tree/main)
 
