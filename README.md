@@ -31,3 +31,13 @@ It assigns a **race number** and **start time** based on the runner's age and ea
 
 [🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/RaceGame/tree/main)
 
+---
+
+## ✊✋✌️ Rock, Paper, Scissors
+
+It is a simple JavaScript game where the player chooses **rock**, **paper**, or **scissors**, the computer makes a random choice, and the winner is determined based on classic game rules. It also includes a secret `"bomb"` code for an automatic win.
+
+[🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/RockPaperScissor)
+
+---
+
