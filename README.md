@@ -55,5 +55,10 @@ It randomly assigns an athletic event to an athlete, calculates the required num
 
 [🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/TrainingDays/tree/main)
 
-------
+---
 
+## 🐋 Whale Language
+
+It converts a given sentence into **whale language** by keeping only vowels, doubling the letters `e` and `u`, and displaying the result in uppercase for a fun and stylized output.
+
+[🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/whaleLanguage)
