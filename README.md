@@ -70,3 +70,11 @@ It converts a given sentence into **whale language** by keeping only vowels, dou
 It creates a simple **“Today’s Special”** system by storing a meal name and price with validation, then displaying them in a formatted message using JavaScript **getters** and **setters**. This project demonstrates safe property assignment, controlled access, and clean output formatting for a restaurant-style menu feature.
 
 [🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/MealMaker/blob/main/README.md)
+
+---
+
+## 🧮 Shape Area (Node.js, CommonJS)
+
+It provides a simple **area calculator** for circles and squares using pure functions, while emphasizing Node.js **CommonJS modules**—**exporting** with `module.exports` and **importing** with `require()`. This project demonstrates clear function design (`circleArea()` for `πr²`, `squareArea()` for `s²`), **object destructuring** on import, and clean console output for quick verification.
+
+[🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/shape-area-node)
