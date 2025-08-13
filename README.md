@@ -62,3 +62,11 @@ It randomly assigns an athletic event to an athlete, calculates the required num
 It converts a given sentence into **whale language** by keeping only vowels, doubling the letters `e` and `u`, and displaying the result in uppercase for a fun and stylized output.
 
 [🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/whaleLanguage)
+
+---
+
+## 🍽️ Meal Maker
+
+It creates a simple **“Today’s Special”** system by storing a meal name and price with validation, then displaying them in a formatted message using JavaScript **getters** and **setters**. This project demonstrates safe property assignment, controlled access, and clean output formatting for a restaurant-style menu feature.
+
+[🔗 View the Project on GitHub](https://github.com/SunilKumarPeela/MealMaker/blob/main/README.md)
